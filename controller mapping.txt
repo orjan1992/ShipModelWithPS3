@@ -1,0 +1,25 @@
+LeftY up =-1 i2
+LetX right = 1 i1
+RightY up=-1 i5
+RightX right=1 i4
+L2 =1
+R2 = -1
+
+L1 = 2:5
+L2=2:6
+
+select=2:7
+start=2:8
+
+cross=2:1
+circle=2:2
+square=2:3
+triangle=2:4
+
+leftStick=2:9
+rightStick=2:10
+
+arrowLeft = 180
+arrowUp = 90
+arrowRight = 0
+ArrowDOwn = 270

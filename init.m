@@ -2,6 +2,9 @@ eta_0 = [0 0 0];
 nu_0 =[0 0 0];
 tau = [1.03 0 0];
 Par.SensNoiseEnabled = 1;
+Par.Freeze.Enable = 1;
+Par.Freeze.length = 1
+Par.Freeze.threshold = 2.6;
 Par.EnablePS3 = 0;
 
 Par.Step_size = 0.1;
